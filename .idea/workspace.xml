@@ -54,14 +54,14 @@
       <file leaf-file-name="01_html_structure_02_singleblog.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/01_html_structure_02_singleblog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55307263">
-              <caret line="220" column="7" selection-start-line="220" selection-start-column="7" selection-end-line="220" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.48603353">
+              <caret line="142" column="8" selection-start-line="142" selection-start-column="8" selection-end-line="142" selection-end-column="8" />
               <folding>
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#aside#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -526,14 +526,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01_html_structure_02_singleblog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55307263">
-          <caret line="220" column="7" selection-start-line="220" selection-start-column="7" selection-end-line="220" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.48603353">
+          <caret line="142" column="8" selection-start-line="142" selection-start-column="8" selection-end-line="142" selection-end-column="8" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#aside#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
