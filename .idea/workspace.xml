@@ -21,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="02_css_ex_11.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02_css_ex_11.html">
+      <file leaf-file-name="02_css_ex_19.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_css_ex_19.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.424581">
-              <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+            <state vertical-scroll-proportion="-5.625">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_css_ex_17.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02_css_ex_17.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30167598">
+              <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -84,8 +94,16 @@
         <option value="$PROJECT_DIR$/02_css_ex_07.html" />
         <option value="$PROJECT_DIR$/02_css_ex_08.html" />
         <option value="$PROJECT_DIR$/02_css_ex_09.html" />
-        <option value="$PROJECT_DIR$/02_css_ex_10.html" />
         <option value="$PROJECT_DIR$/02_css_ex_11.html" />
+        <option value="$PROJECT_DIR$/02_css_ex_10.html" />
+        <option value="$PROJECT_DIR$/02_css_ex_13.html" />
+        <option value="$PROJECT_DIR$/02_css_ex_14.html" />
+        <option value="$PROJECT_DIR$/02_css_ex_16.html" />
+        <option value="$PROJECT_DIR$/02_css_ex_12.html" />
+        <option value="$PROJECT_DIR$/02_css_ex_15.html" />
+        <option value="$PROJECT_DIR$/02_css_ex_17.html" />
+        <option value="$PROJECT_DIR$/02_css_ex_18.html" />
+        <option value="$PROJECT_DIR$/02_css_ex_19.html" />
       </list>
     </option>
   </component>
@@ -304,11 +322,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02_css_ex_09.html">
+    <entry file="file://$PROJECT_DIR$/02_css_ex_11.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_css_ex_09.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -372,22 +397,111 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.67486036">
           <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02_css_ex_10.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92178774">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.49943116">
+          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_css_ex_14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0558659">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_css_ex_16.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06703911">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02_css_ex_11.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.424581">
+        <state vertical-scroll-proportion="0.016759777">
           <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_css_ex_13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5363129">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_css_ex_12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1005586">
+          <caret line="112" column="33" selection-start-line="112" selection-start-column="33" selection-end-line="112" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_css_ex_15.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33966482">
+          <caret line="111" column="17" selection-start-line="111" selection-start-column="17" selection-end-line="111" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_css_ex_19.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_css_ex_18.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-32.375">
+          <caret line="259" column="0" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
+          <folding>
+            <element signature="e#106#131#0" expanded="false" />
+            <element signature="e#146#188#0" expanded="false" />
+            <element signature="e#200#243#0" expanded="false" />
+            <element signature="e#254#339#0" expanded="false" />
+            <element signature="e#351#393#0" expanded="false" />
+            <element signature="e#405#493#0" expanded="false" />
+            <element signature="e#505#547#0" expanded="false" />
+            <element signature="e#558#646#0" expanded="false" />
+            <element signature="e#657#743#0" expanded="false" />
+            <element signature="e#754#839#0" expanded="false" />
+            <element signature="e#851#893#0" expanded="false" />
+            <element signature="e#904#990#0" expanded="false" />
+            <element signature="e#1001#1088#0" expanded="false" />
+            <element signature="e#1100#1143#0" expanded="false" />
+            <element signature="e#1154#1239#0" expanded="false" />
+            <element signature="e#1250#1337#0" expanded="false" />
+            <element signature="e#1352#1394#0" expanded="false" />
+            <element signature="e#1410#1453#0" expanded="false" />
+            <element signature="e#1465#1552#0" expanded="false" />
+            <element signature="e#1564#1650#0" expanded="false" />
+            <element signature="n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_css_ex_17.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30167598">
+          <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
           <folding />
         </state>
       </provider>
