@@ -1,0 +1,28 @@
+.gnb{
+  height:125px;
+}
+
+.gnb-depth1{
+  width:1000px;
+  margin:0 auto;
+}
+
+.gnb-depth1-item{
+  float:left;
+}
+
+.gnb-depth2{
+  position:absolute;
+}
+
+.gnb-depth2-item{
+  float:left;
+}
+
+.gnb-depth3{
+  position:absolute;
+}
+
+.gnb-depth3-item{
+  float:left;
+}
