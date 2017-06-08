@@ -1,6 +1,6 @@
 
 /*
-  HTML ÅÂ±×¿ä¼ÒÀÇ ±âº» ½ºÅ¸ÀÏÀ» ÃÊ±âÈ­ ½ÃÄÑÁÖ´Â css
+  HTML íƒœê·¸ìš”ì†Œì˜ ê¸°ë³¸ ìŠ¤íƒ€ì¼ì„ ì´ˆê¸°í™” ì‹œì¼œì£¼ëŠ” css
 */
 
 /* http://meyerweb.com/eric/tools/css/reset/
@@ -24,7 +24,7 @@ time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
-  /* ºê¶ó¿ìÀúÀÇ ±âº» ÆùÆ® Å©±â¸¦ »ç¿ëÇÔ : 16px */
+  /* ë¸Œë¼ìš°ì €ì˜ ê¸°ë³¸ í°íŠ¸ í¬ê¸°ë¥¼ ì‚¬ìš©í•¨ : 16px */
   /*font-size: 100%;*/
   /*font: inherit;*/
   vertical-align: baseline;
