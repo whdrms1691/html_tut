@@ -28,10 +28,6 @@ time, mark, audio, video {
   /*font-size: 100%;*/
   /*font: inherit;*/
   vertical-align: baseline;
-  font-size: 15px;
-  color:#7f90a5;
-  font-family:'Lato', sans-serif;
-  font-weight:400;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -40,6 +36,10 @@ footer, header, menu, nav, section {
 }
 body {
   line-height: 1;
+  font-size: 15px;
+  color:#7f90a5;
+  font-family:'Lato', sans-serif;
+  font-weight:400;
 }
 ol, ul {
   list-style: none;
