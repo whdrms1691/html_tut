@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>배경 CSS3</title>
+
+  <style>
+
+    .box{
+      width:500px;
+      height:300px;
+    }
+
+    .bg1{
+      /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,1a69a5+31,207cca+31,2fc3f9+75,88e5fc+100 */
+      background: #1e5799; /* Old browsers */
+      background: -moz-linear-gradient(top, #1e5799 0%, #1a69a5 31%, #207cca 31%, #2fc3f9 75%, #88e5fc 100%); /* FF3.6-15 */
+      background: -webkit-linear-gradient(top, #1e5799 0%,#1a69a5 31%,#207cca 31%,#2fc3f9 75%,#88e5fc 100%); /* Chrome10-25,Safari5.1-6 */
+      background: linear-gradient(to bottom, #1e5799 0%,#1a69a5 31%,#207cca 31%,#2fc3f9 75%,#88e5fc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#88e5fc',GradientType=0 ); /* IE6-9 */
+    }
+
+    .bg2{
+      /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,1a69a5+31,207cca+57,7b1984+76,a2f282+99 */
+      background: #1e5799; /* Old browsers */
+      background: -moz-radial-gradient(center, ellipse cover, #1e5799 0%, #1a69a5 31%, #207cca 57%, #7b1984 76%, #a2f282 99%); /* FF3.6-15 */
+      background: -webkit-radial-gradient(center, ellipse cover, #1e5799 0%,#1a69a5 31%,#207cca 57%,#7b1984 76%,#a2f282 99%); /* Chrome10-25,Safari5.1-6 */
+      background: radial-gradient(ellipse at center, #1e5799 0%,#1a69a5 31%,#207cca 57%,#7b1984 76%,#a2f282 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#a2f282',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    }
+
+    .bg3{
+      background:url(images/6-1.jpg);
+      background-size:contain;
+    }
+
+    .bg4{
+      background:url(images/6-1.jpg);
+      background-size:cover;
+    }
+
+    .bg5{
+      width:100%;
+      background:url(images/6-1.jpg) center;
+      background-size:cover;
+    }
+
+  </style>
+
+</head>
+<body>
+
+<div class="box bg1">박스1</div>
+
+<div class="box bg2">박스2</div>
+
+<div class="box bg3">박스3</div>
+
+<div class="box bg4">박스4</div>
+
+<div class="box bg5">박스5</div>
+
+</body>
+</html>

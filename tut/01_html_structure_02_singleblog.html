@@ -6,36 +6,32 @@
 </head>
 <body>
 
-<header>
-  <div>
-    <div>
-      <ul>
-        <li>
-          <img src="" />
-          <div>Call Us: (0) 123 456 789</div>
-        </li>
-        <li>
-          <img src="" />
-          <div>jetspace@mail.com</div>
-        </li>
-      </ul>
-      <div>
-        <img src="" />
-        <input type="button" value="ENG" />
-      </div>
-    </div>
-    <div>
-      <h1>ASTRO</h1>
-      <nav>
-        <ul>
-          <li>HOME</li>
-          <li>SEVICES</li>
-          <li>ABOUT</li>
-          <li>BLOG</li>
-          <li>CONTACT</li>
+<header class="header">
+  <div class="gnb">
+    <div class="inner-box">
+      <h1 class="logo">Astro</h1>
+      <nav class="menu">
+        <ul class="menu-list">
+          <li class="menu-list-item"><a href="#" class="menu-list-link">Home</a></li>
+          <li class="menu-list-item"><a href="#" class="menu-list-link">SERVICES</a></li>
+          <li class="menu-list-item"><a href="#" class="menu-list-link">ABOUT</a></li>
+          <li class="menu-list-item"><a href="#" class="menu-list-link">BLOG</a></li>
+          <li class="menu-list-item"><a href="#" class="menu-list-link">CONTACT</a></li>
         </ul>
       </nav>
-      <input type="text" placeholder="Search" />
+      <input type="text" placeholder="Search" class="input-search"/>
+    </div>
+  </div>
+  <div class="util">
+    <div class="inner-box">
+      <ul>
+        <li>Call Us: (0) 123 456 789</li>
+        <li>jetspace@mail.com</li>
+      </ul>
+      <select>
+        <option>ENG</option>
+        <option>KOR</option>
+      </select>
     </div>
   </div>
 </header>
@@ -194,45 +190,45 @@
   </div>
 </section>
 
-<footer>
-  <div>
-    <div>
-      <div>Menu</div>
-      <ul>
-        <li>HOME</li>
-        <li>SERVICES</li>
-        <li>ABOUT US</li>
-        <li>BLOG</li>
-        <li>CONTACT US</li>
+<footer class="footer">
+  <div class="inner-box">
+    <div class="col">
+      <div class="list-heading">Menu</div>
+      <ul class="list">
+        <li class="list-item">HOME</li>
+        <li class="list-item">SERVICES</li>
+        <li class="list-item">ABOUT US</li>
+        <li class="list-item">BLOG</li>
+        <li class="list-item">CONTACT US</li>
       </ul>
     </div>
 
-    <div>
-      <div>
-        <div>We Offer</div>
-        <ul>
-          <li>BUSINESS HOSTING</li>
-          <li>PRIVATE HOSTING</li>
+    <div class="col">
+      <div class="col-top">
+        <div class="list-heading">We Offer</div>
+        <ul class="list">
+          <li class="list-item">BUSINESS HOSTING</li>
+          <li class="list-item">PRIVATE HOSTING</li>
         </ul>
       </div>
 
-      <div>
-        <div>Service</div>
-        <ul>
-          <li>FIRST SERVICE</li>
-          <li>SECOND SERVICE</li>
-          <li>FIRST SERVICE</li>
+      <div class="col-bottom">
+        <div class="list-heading">Service</div>
+        <ul class="list">
+          <li class="list-item">FIRST SERVICE</li>
+          <li class="list-item">SECOND SERVICE</li>
+          <li class="list-item">FIRST SERVICE</li>
         </ul>
       </div>
     </div>
 
-    <div>
-      <div>Our Blog</div>
-      <div>Lorem Ipsum sample text</div>
-      <p>
+    <div class="col">
+      <div class="list-heading">Our Blog</div>
+      <div class="list-heading-sub">Lorem Ipsum sample text</div>
+      <p class="footer-paragraph">
         Vivamus suscipit tortor eget felis porttitorvolutpat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur arcuerat, accumsan.
       </p>
-      <a href="http://www.naver.com">Read More</a>
+      <a href="http://www.naver.com" class="footer-link">Read More</a>
     </div>
   </div>
 </footer>
