@@ -266,7 +266,7 @@
       init();
       paging();
 
-      autoRolling();
+//      autoRolling();
 
       $('.arrow.right').on('click', function(){
         // clearInterval : setInterval() 함수 진행 취소
@@ -338,10 +338,64 @@
         // 이벤트 대상이 on() 함수의 인자로 명시해주는 경우 $(this) => '.paging-item'
         var indexNumber = $(this).index('.paging-item');
 
-       if( (currentIndex + 1) == indexNumber ) {
-         moveLeft();
-         } else if( (currentIndex - 1) == indexNumber ){
-          moveRight();
+          if( currentIndex != indexNumber ){
+
+            if(currentIndex == 0){
+              if(indexNumber == $('.view-image').length-1 ){
+
+                nextIndex = currentIndex - 1;
+
+                if( !$('.view-image').is(':animated') ){
+                  moveRight();
+                }
+
+              } else {
+
+                nextIndex = currentIndex + 1;
+
+                if( !$('.view-image').is(':animated') ){
+                  moveLeft();
+                }
+
+              }
+            } else if( currentIndex == $('.view-image').length-1 ){
+
+              if( indexNumber == 0 ){
+                nextIndex = currentIndex + 1;
+
+                if( !$('.view-image').is(':animated') ){
+                  moveLeft();
+                }
+              } else {
+
+                nextIndex = currentIndex - 1;
+
+                if( !$('.view-image').is(':animated') ){
+                  moveRight();
+                }
+
+              }
+
+            } else{
+              if( currentIndex < indexNumber ){
+
+                nextIndex = currentIndex + 1;
+
+                if( !$('.view-image').is(':animated') ){
+                  moveLeft();
+                }
+
+              } else{
+
+                nextIndex = currentIndex - 1;
+
+                if( !$('.view-image').is(':animated') ){
+                  moveRight();
+                }
+
+              }
+            }
+
         }
 
       });
